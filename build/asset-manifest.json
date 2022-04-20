@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9499fc34.css",
+    "main.js": "/static/js/main.d3a3a327.js",
+    "static/js/787.28605c17.chunk.js": "/static/js/787.28605c17.chunk.js",
+    "static/media/Home1.jpg": "/static/media/Home1.d1e9c83b7e7a4856fd1f.jpg",
+    "static/media/Home4.jpg": "/static/media/Home4.58a8ddfa09715d5ba3b6.jpg",
+    "static/media/Home3.jpg": "/static/media/Home3.88a342a6631491df43cb.jpg",
+    "static/media/Home2.jpg": "/static/media/Home2.7fb40439712486abf931.jpg",
+    "static/media/LSETFLOGO.png": "/static/media/LSETFLOGO.df10a3128d53aaa319be.png",
+    "static/media/FirstB.png": "/static/media/FirstB.783ec9eacf245e13000e.png",
+    "static/media/Kelechi.jpg": "/static/media/Kelechi.9394815788555fe07215.jpg",
+    "static/media/UNDP.png": "/static/media/UNDP.5334bfd843b0f7581b42.png",
+    "static/media/lsetf2.jpg": "/static/media/lsetf2.a5021473f9f83dbea525.jpg",
+    "static/media/USADF.jpg": "/static/media/USADF.051748d54446b408a8f6.jpg",
+    "static/media/usadf1.jpg": "/static/media/usadf1.aa8b8c85709108624f5e.jpg",
+    "index.html": "/index.html",
+    "main.9499fc34.css.map": "/static/css/main.9499fc34.css.map",
+    "main.d3a3a327.js.map": "/static/js/main.d3a3a327.js.map",
+    "787.28605c17.chunk.js.map": "/static/js/787.28605c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9499fc34.css",
+    "static/js/main.d3a3a327.js"
+  ]
+}

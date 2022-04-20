@@ -1,0 +1,23 @@
+.s1{
+    background-image: url(../Home/Home1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.s2{
+    background-image: url(../Home/Home2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.s3{
+    background-image: url(../Home/Home3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.s4{
+    background-image: url(../Home/Home4.jpg);
+    background-position: center;
+    background-size: cover;
+}
